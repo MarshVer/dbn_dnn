@@ -11,6 +11,6 @@
 ## train_dbn_dnn.py
 * train_dbn_dnn.py是训练数据的python代码
 ## test_dbn_dnn.py
-* est_dbn_dnn.py是册数数据的python
+* test_dbn_dnn.py是册数数据的python
 ## dbn.pth
 * dbn.pth是训练数据后保存的模型参数
