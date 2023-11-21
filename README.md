@@ -5,12 +5,12 @@
 
 # 文件目录
 ## data
-data文件夹时MINIST数据集
+* data文件夹是MINIST数据集
 ## model
-model文件夹是DBN和RBM模型
+* model文件夹是DBN和RBM模型
 ## train_dbn_dnn.py
-train_dbn_dnn.py是训练数据的python代码
+* train_dbn_dnn.py是训练数据的python代码
 ## test_dbn_dnn.py
-test_dbn_dnn.py是册数数据的python
+* est_dbn_dnn.py是册数数据的python
 ## dbn.pth
-dbn.pth是训练数据后保存的模型参数
+* dbn.pth是训练数据后保存的模型参数
