@@ -1,6 +1,4 @@
-import torch
 from torch import nn
-
 from model.RBM_model import RBM
 
 
